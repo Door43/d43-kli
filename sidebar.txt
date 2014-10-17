@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kli:home|Door43 (kli)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kli|d43-kli repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kli/archive/master.zip|d43-kli.zip]]
+
+**Recent Changes**
+{{changes>ns = kli}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kli|Ethnologue data]]
+
